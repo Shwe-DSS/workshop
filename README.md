@@ -1,0 +1,3 @@
+# Workshop
+
+Repository initialized.
